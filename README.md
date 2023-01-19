@@ -2,7 +2,7 @@
 
 Python & Arduino scripts used in the rOoC paper.
 
-  - Code-S1: Arduino code using Arduino 9-Axis motion shield to measure pitch & roll
+  - Code-S1: tilting-measurement.ino - Arduino code using Arduino 9-Axis motion shield to measure pitch & roll
   - Code-S2: plot_tilting_angles.py - Python scipt to plot pitch & roll
   - Code-S4: HistoFomOrientation4.py - Python script to plot cell orientation histograms from vector fields
   - Code-S5: OutlineAnalyzer.py - Python script to plot cell orientation histograms from contour files (from FIJI)
